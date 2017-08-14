@@ -1,27 +1,43 @@
 <!doctype html>
 body: {
-    
+        background: green;
+    color: orange;
     margin: 10 ;
     
 }
 
 header{
-    background: green;
-    color: orange;
+    background: #999;
     margin: 0 ;
         
+}
+
+header h1{
+
+    background: black;
+    color: crimson;
+    margin: 0;
+    font: Lucida Console;
+    font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
+    	font-size: 49px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 53.9px;
 }
 
 header hl{
     
     margin: 10 ;
-    
+        background: green;
+    color: orange;
 }
 
 nav ul{
     
     margin: 10 ;
-    
+        background: green;
+    color: orange;
 }
 
 
